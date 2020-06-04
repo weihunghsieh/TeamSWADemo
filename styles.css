@@ -30,6 +30,7 @@ h1 {
 }
 
 #maincontent {
+  color: #ffffff;
   clear: both;
   display: table;
   padding: 35px;
